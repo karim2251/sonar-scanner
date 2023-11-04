@@ -1,7 +1,7 @@
 # sonar-scanner
 
 ##### to install java 11 and sonar-scanner and finally Configuration:
-> download the sonar.sh file
+ `download the sonar.sh file`
 
 ##### the permission to execute
 ```
@@ -11,7 +11,7 @@ chmod +x sonar.sh
 ```
 ./sonar.sh
 ```
-###### this script will be install java 11 and install sonar-scanner also add the sonar-scanner file in the /var/opt in the end create the symbolic link, you can run Sonar-Scanner simply by typing sonar in the terminal,
+##### this script will be install java 11 and install sonar-scanner also add the sonar-scanner file in the /var/opt in the end create the symbolic link, you can run Sonar-Scanner simply by typing sonar in the terminal.
 
 ##### output:
 
