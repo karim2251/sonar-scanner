@@ -13,6 +13,9 @@ chmod +x sonar.sh
 ```
 `this script will be install java 11 and install sonar-scanner also add the sonar-scanner file in the /var/opt in the end create the symbolic link, you can run Sonar-Scanner simply by typing sonar in the terminal.`
 
+```
+sonar
+```
 ##### output:
 
 ```
